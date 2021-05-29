@@ -1,0 +1,5 @@
+package br.com.daianematos.myinvest.resources;
+
+public class CategoriaResource {
+
+}
