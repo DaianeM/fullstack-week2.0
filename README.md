@@ -10,6 +10,7 @@
 - Maven
 
 ## Front end
+- JavaScript
 - ReactJS
 - Ant Design
 
