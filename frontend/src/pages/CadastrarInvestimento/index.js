@@ -145,7 +145,7 @@ export default function CadastrarInvestimento() {
             </Form>
         </div>
         </Content>
-        <Footer style={{ textAlign: "center" }}>My Invest ©2021 Created by Daiane Matos</Footer>
+        <Footer style={{ textAlign: "center" }}>My Invest ©2021 by Daiane Matos</Footer>
       </Layout>
     </div>
   );

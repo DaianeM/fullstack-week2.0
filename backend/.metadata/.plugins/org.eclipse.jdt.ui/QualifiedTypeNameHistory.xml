@@ -22,4 +22,5 @@
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
     <fullyQualifiedTypeName name="br.com.daianematos.myinvest.repository.CategoriaRepository"/>
     <fullyQualifiedTypeName name="br.com.daianematos.myinvest.domain.Categoria"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.CrossOrigin"/>
 </qualifiedTypeNameHistroy>
