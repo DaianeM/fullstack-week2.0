@@ -1,5 +1,5 @@
 # My Invest
-<p align="center">Aplicação desenvolvida na Fullstack Week 2.0 promovida por Larissa Falcão, que controla investimentos pessoais.</p>
+<p align="center">Aplicação desenvolvida na Fullstack Week 2.0, que controla investimentos pessoais.</p>
 
 # Tecnologias utilizadas
 
