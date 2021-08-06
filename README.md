@@ -3,13 +3,13 @@
 
 ## Tecnologias utilizadas
 
-### Back end
+#### Back end
 - Java
 - Spring Boot
 - JPA / Hibernate
 - Maven
 
-### Front end
+#### Front end
 - JavaScript
 - ReactJS
 - Ant Design
