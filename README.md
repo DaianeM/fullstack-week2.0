@@ -1,15 +1,15 @@
 # My Invest
 <p align="center">Aplicação desenvolvida na Fullstack Week 2.0, que controla investimentos pessoais.</p>
 
-# Tecnologias utilizadas
+## Tecnologias utilizadas
 
-## Back end
+### Back end
 - Java
 - Spring Boot
 - JPA / Hibernate
 - Maven
 
-## Front end
+### Front end
 - JavaScript
 - ReactJS
 - Ant Design
@@ -17,7 +17,7 @@
 ## Banco de Dados
 - Postgresql
 
-# Layout
+## Layout
 <p align="center"><b>Cadastro de Investimento</b></p>
  
 ![Cadastro](https://github.com/DaianeM/assets/blob/main/fullstackweek1.png)
