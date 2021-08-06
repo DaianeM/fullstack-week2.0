@@ -1,4 +1,4 @@
-# My Invest
+## Projeto My Invest
 <p align="center">Aplicação desenvolvida na Fullstack Week 2.0, que controla investimentos pessoais.</p>
 
 ## Tecnologias utilizadas
